@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Gallery",
+  "description": "A modern responsive glassmorphism image sharing gallery app featuring secure uploading, search by title, full screen detail view, and local downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
